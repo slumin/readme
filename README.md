@@ -4,8 +4,10 @@
 I'm a passionate developer with expertise in [your skills]. I love building [type of projects] and contributing to open-source projects.
 
 ## GitHub Stats
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slumin&layout=compact&theme=dark)](https://github.com/slumin)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=slumin&show_icons=true&theme=dark)](https://github.com/slumin)
+
+## Languages used
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slumin&layout=compact&theme=dark)](https://github.com/slumin)
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
