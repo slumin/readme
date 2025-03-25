@@ -1,6 +1,7 @@
 # Lunch
 
 ## Projects
+- [Kuria Bot](https://bot.clearnet.gay)
 - [Kill All Apps](https://github.com/slumin/KillAllApps)
 - [Bridge](https://github.com/slumin/T2D-Bridge)
 
