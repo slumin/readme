@@ -15,5 +15,5 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095F6?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ## Projects
-- [Kill All Apps]([link-to-project-1](https://github.com/slumin/KillAllApps))
-- [Bridge](https://github.com/slumin/T2D-Bridge))
+- [Kill All Apps](https://github.com/slumin/KillAllApps)
+- [Bridge](https://github.com/slumin/T2D-Bridge)
