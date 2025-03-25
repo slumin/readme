@@ -14,7 +14,7 @@ I'm a passionate developer with expertise in [your skills]. I love building [typ
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ## Contribution Graph
-![GitStats Graph](https://gitstats.me/embed/yourusername)
+![GitStats Graph](https://gitstats.me/embed/slumin)
 
 ## Projects
 - [Project 1](link-to-project-1)
